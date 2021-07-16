@@ -1,7 +1,7 @@
 ## Computer Graphics
 
 #### Welcome to OpenGL
-Ref: https://learnopengl.com/
+Ref: https://learnopengl.com/  
 This website helps me a lot and I think I should put it here for everyone who's learning OpenGL. Bon Appétit.
 
 ### Assignment 1:
